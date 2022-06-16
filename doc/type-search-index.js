@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ed22_ud12_Ejercicio2_GeneradorIP","l":"Generador"}];updateSearchResults();

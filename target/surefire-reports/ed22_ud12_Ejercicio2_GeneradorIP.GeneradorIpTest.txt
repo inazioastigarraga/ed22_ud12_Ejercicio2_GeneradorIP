@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ed22_ud12_Ejercicio2_GeneradorIP.GeneradorIpTest
+-------------------------------------------------------------------------------
+Tests run: 2000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.956 s - in ed22_ud12_Ejercicio2_GeneradorIP.GeneradorIpTest
